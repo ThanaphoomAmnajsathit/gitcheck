@@ -30,8 +30,16 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-
+        //-fsafasdffdsfsdfgdsg
         // hello testt
+        hello();
+    }
+
+    private void hello(){
+        int a = 0;
+        int b = 5;
+        int c = 0;
+        c = a+b;
     }
 
     @Override
